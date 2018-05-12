@@ -1,7 +1,7 @@
-ZCL Electrum - Zclassic Electrum (Lite) Client
+ZCL Blue Electrum - Zclassic Blue Electrum (Lite) Client
 ==============================================
 
-Latest Release: https://github.com/BTCP-community/electrum-zcl/releases/
+Latest Release: https://github.com/ZclassicBlue/electrum-zcl
 
 
 Viewing & Sending from Z addresses is not yet supported on this wallet.
@@ -16,14 +16,14 @@ Know about your data directory::
 
 You can also use 'Export Private Keys' and 'Show Seed' from inside the application to write down and store your funds.
 
-Please use the issue tracker for bug reports, feature requests, and other mission-critical information. It is actively monitored by the Zclassic development team. For general support, please visit our Discord: https://discord.gg/2PRZ5q
+Please use the issue tracker for bug reports, feature requests, and other mission-critical information. It is actively monitored by the Zclassic development team. 
 
 Development Version
 ===================
 
 First, clone from Github::
 
-    git clone https://github.com/BTCP-community/electrum-zcl
+    git clone https://github.com/ZclassicBlue/electrum-zcl
     cd electrum-zcl
 
 For Mac:
@@ -181,6 +181,5 @@ Original Project Info
 
 ---
 
-The Zclassic Team
+The Zclassic Blue Team
 
-ZCL: t1gsePJZ6ojJYygj3PWMGJfojPUoMd5AVfU
